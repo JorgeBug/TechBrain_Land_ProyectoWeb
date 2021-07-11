@@ -1,6 +1,6 @@
 # TechBrain_Land_ProyectoWeb
 
-Es un proyecto para la materia de Programación Web en la Univeersidad de la UDG, Centro Universitario de Ciencias Exactas e ingenierías.
+Es un proyecto para la materia de Programación Web en la Universidad de la UDG, Centro Universitario de Ciencias Exactas e ingenierías.
 Hecho con html, JavaScript y Three.js con la finalidad de realizar un juego interactivo web que ayuda al aprendizaje de los elementos de la 
 aquitectura de la computadora. Para este proyecto se uso la librería Three.js para crear los modelos 3D del juego, la iluminación, 
 el ambiente y la interacción del usuario con el juego. 
