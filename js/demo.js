@@ -446,7 +446,7 @@ function AudioListenerP(){
 	{
 		sound.setBuffer(buffer);
 		sound.setLoop(true);
-		sound.setVolume(0.25);
+		sound.setVolume(0.35);
 		sound.play();
 	}
  );
